@@ -1,0 +1,70 @@
+<2022.03.31 공부 일지>
+
+1. 영단어 외우기
+	correct - 맞는, 올바른
+	direct - 직접적인, 곧바로
+	directory - 지휘의, 지도적인, 안내 책자
+	erect - 건립하다, 똑바로 세우다
+	rectangle - 직사각형
+	regime - 제도, 체제, 정권
+	reign - 통치 기간, 치세
+	right - 옳은, 올바른, 오른쪽의
+	rigid - 딱딱한, 완고한, 엄격한
+	rigor - 엄격함, 가혹함, 철저함
+	region - 지역, 지방
+	regular - 규칙적인, 정기적인
+	rotate - 회전하다, 교대로 하다
+	control - 지배하다, 통제하다
+	enroll - 등록하다, 기록하다
+	scroll - 두루마리, 명단, 스크롤
+	bankrupt - 파산하다, 파산자
+	corrupt - 부패한, 부정직한
+	disrupt - 방해하다, 중단시키다, 붕괴시키다
+	erupt - 분출하다, 터뜨리다
+	interrupt - 방해하다, 중단시키다, 끼어들다
+	ascend - 오르다, 올라가다, 상승하다
+	descend - 내려가다
+	transcend - 초월하다
+	scandal - 스캔들, 추문
+	science - 과학
+	conscious - 의식이 있는, 인식하고 있는, 의도적인
+	conscience - 양심, 가책
+	section - 조각, 부분, 단면
+	sector - 부문, 분야, 부채꼴
+	insect - 곤충
+	intersection - 교차로, 교차점
+	segment - 부분, 분할, <수학>호
+
+
+
+2. 학교 강의 공부
+	
+	<C++ 강의 필기 내용>
+	- 생성자와 생성자의 특징
+	1) 클래스 이름과 동일	2) 반환값X
+	3) 반드시 public으로 선언
+	4) 중복 정의 가능
+
+	- 생성자의 종류에는 공생성자(인수X, 디폴트 생성자), 인수가 있는 생성자가 있다.
+	
+	- 소멸자
+	1) 클래스 이름에 ~가 붙음.
+	2) 값 반환을 하지 않는다.
+	3) public으로 선언되어야 한다.
+	4) 매개 변수가 없고, 중복 정의를 허용하지 않는다.
+
+	- 상수값(const) 초기화는 생성자의 : 변수 초기화 방식을 사용한다.
+	ex) cl(): num1(10), num2(20) {}
+
+	<데이터베이스 수업>
+	E.R 다이어그램 표기법 공부
+	데이터베이스에 저장할 데이터에 대한 문구를 E.R 다이어그램으로 표현하는 연습
+	관계 데이터베이스에서 단일, 다중 값 속성과 단순, 복합 속성값에 대해 알아봄.
+	강한 개체와 약한 개체, 
+
+
+
+3. w3school HTML Tutorial 문서 정독
+	HTML Tutorial > HTML Style Guide 부터 HTML Tutorial > HTML vs. XHTML까지 정독 완료
+
+
