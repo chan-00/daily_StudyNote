@@ -1,0 +1,54 @@
+<2022.04.15일자 공부 기록>
+
+1. 영단어 외우기
+	combine - 결합[조합]하다, 합치다, 병행하다
+	compact - (단단하게) 다지다, 소형의, 간편한
+	compile - 편집하다, 수집하다, 통합하다
+	confront - 맞서다, 대항하다, 직면하다
+	congregate - 모으다, 소집하다, 집합시키다
+	connect - 연결하다, 관련시키다, 접속하다
+	contemporary - 동시대의, 현대의, 최신의
+	coherent - 논리적인, 일관성 있는, 조리 있는
+	correlation - 연관성, 상관관계
+	colleague - 동료, 동업자
+	collide - 충돌하다, 부딪치다
+	international - 국제적인, 국제의
+	intercultural - 문화 간의, 다른 문화의
+	interpersonal - 대인 관계의
+	interval - 간격, 사이, 휴식[중단] 시간
+	interact-  소통하다, 교류하다, 상호 작용하다
+	interchange - 교환하다, 교환, 교차로, 분기점
+	interfere - 방해하다, 간섭하다
+	interpret - 해석하다, 통역하다, 설명하다
+	transform - 변형하다, 변화시키다
+	translate - 번역하다, 옮기다
+	transplant - 이식하다, 옮겨 심다
+	transfuse - 주입하다, 불어넣다, 수혈하다
+	transgender - 성전환자, 트랜스젠더
+	transient - 일시적인, 순간적인, 과도기의
+
+
+2. 학교 공부 기록
+	(알고리즘 강의 필기)
+	
+	- 순차(선형) 검색
+		> 정렬되어 있지 않은 데이터에서 검색
+		> 첫 번째 ~ 마지막 원소까지 일치하는 키값을 찾는다.
+		> 최악의 경우는 O(n)
+
+	- 이진(이분) 검색
+		> 정렬된 데이터에서 찾기
+		> 중간값부터 검색하여 키값을 크기 비교하여 왼쪽, 오른쪽 검색 방향 결정
+		> 평균 탐색 시간 : O(logn)
+
+
+	(운영체제 강의 필기)
+
+	- 주요 기본 명령어
+		ls, cd, touch, mkdir, rmdir, cp, rm, mv, (cat, head, tail, more, less -> 파일 내용 관련 명령어), file, clear, pwd
+
+	- 압축파일 종류
+		> tar, xz, gz, bzip2(압축률이 가장 좋음)
+
+	- 압축하기
+		> tar cvf (압축파일명) (압축할 내용)
