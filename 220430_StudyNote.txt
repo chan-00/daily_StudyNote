@@ -1,0 +1,69 @@
+<2022.04.29일자 공부 기록>
+
+1. 영단어 외우기
+	nonfiction - 논픽션, 실화
+	nonprofit - 비영리적인, 비영리 단체
+	nonsense - 터무니없는 생각
+	nonsmoking - 금연의
+	nonstop - 멈추지 않는, 무착륙의, 직행의
+	antiaging - 노화 방지의
+	antibacterial - 항균의, 항균성의
+	antibody - (항원에 대항하는)항체
+	antisocial - 반사회적인, 비사교적인
+	antarctic - 남극의
+	antonym - 반의어, 반대어
+	counterattack - 반격하다, 반격, 역습
+	contrary - 반대의, 상반된
+	withdraw - 철수하다, 취소[중단]하다, (돈을) 인출하다
+	withhold - (~을) 주지 않다, 보류하다, 억누르다
+	malice - 악의, 원한
+	malfunction - (기능) 오작동, 고장, 제대로 작동하지 않다, 고장 나다
+	malady - (만성) 질병, 심각한 문제
+	malign - 욕하다, 해를 끼치다, 해로운
+	maleficent - 해로운, 나쁜 짓을 하는
+	malevolent - 악의적인
+	mistake - 실수, 잘못, 오해하다, 실수[잘못]하다
+	mischief - (아이들이 하는) 나쁜 짓, 장난, 해악
+	misconception - 오해, 오인, 잘못된 생각
+	misbehave - 부정[비행]을 저지르다
+	misconduct - 부정을 저지르다, 위법하다, 위법 행위
+	misfortune - 불행, 역경
+	mishap - 사고, 재난
+	mismatch - 불일치, 부조화, 잘못 연결하다
+	mislead - 잘못 인도하다, 잘못된 내용을 전달하다
+	misplace - 잘못 두다, 둔 곳을 잊다
+	misunderstand - 오해하다, 잘못 이해하다
+
+
+
+
+2. 학교 강의 공부
+	<알고리즘>
+	
+	- 스택/큐?
+		> 프로그램 언어에 정의되어 있지 않음(프로그래머가 만들어 사용)
+
+	- 스택
+		> 0개 이상 원소를 갖는 유한 순서 리스트
+		> 한 쪽에서 삽입/삭제 연산이 수행됨.
+		> push(추가)와 pop(삭제) 연산이 한 곳에서 발생
+		> 선입 후출(가장 먼저 입력된 자료가 가장 나중에 출력)
+		> = 후입 선출(가장 나중에 들어간 자료가 가장 먼저 나옴.) -> LIFO라고도 함.(Last In First Out)
+		> 삽입은 push, 삭제는 pop으로 표현
+
+	- 스택 응용
+		> 컴파일러, 순환 호출 관리에 사용됨.
+		> 스택은 주로 하드웨어 관련된 곳에 사용된다.(큐는 소프트웨어 관련되어서 사용.)
+
+	- 큐
+		> 작업 큐에 들어간 작업이 가장 처음에 처리되는 작업 스케줄
+		> 한쪽에서는 삽입연산, 다른(반대편) 쪽에서는 삭제 연산만 하는 구조
+		> 선입선출 : 가장 먼저 입력된 자료가 가장 먼저 출력 -> FIFO(First In First Out)
+		> 삽입은 ADD, 삭제는 DELETE라고 표현함.(스택과의 차이점)
+
+
+
+3. w3schools HTML Tutorial 문서 읽기
+	HTML Tutorial > HTML APIs 문서 읽음
+
+
