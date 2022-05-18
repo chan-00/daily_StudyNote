@@ -1,0 +1,16 @@
+<2022.05.17일자 공부 기록>
+
+1. 영단어 복습
+	-able(가능성, ~할 수 있는)
+	-ful(풍부, ~로 가득 찬)
+	-less(결핍, ~이 없는)
+	-ern(방향, ~의)
+	-ic, -ous, -ar, -ate, -al, -ant, -ly, -y, -ish, -ive(성질, 성향)
+	-ly(방식, ~하게)
+	-ward(방향, ~쪽으로)
+	-way(방법, 방향, 정도)
+
+
+2. w3schools HTML Tutorial 문서 읽기
+	HTML Tutorial > HTML JavaScript ~ HTML Tutorial > HTML HTML vs. XHTML까지 문서 복습
+	HTML Forms > HTML Forms 문서 복습
