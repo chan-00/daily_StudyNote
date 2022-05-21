@@ -1,0 +1,4 @@
+<2022.05.21일자 공부 기록>
+
+1. w3schools HTML 문서 읽기
+	HTML Form > HTML Input Types ~ HTML Input Form Attributes 문서 복습
