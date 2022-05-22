@@ -1,0 +1,4 @@
+<2022.05.22일자 공부 기록>
+
+1. w3schools HTML 문서 읽기
+	HTML Graphics ~ HTML Media 문서 복습
