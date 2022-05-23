@@ -1,0 +1,22 @@
+<2022.05.23일자 공부 기록>
+
+1. 영단어 복습
+	offer(제공하다, 제안하다), transfer(옮기다, 이동하다, 환승하다), refer(~에 대해 언급하다, 인용하다),
+	prefer(선호하다, ~을 더 좋아하다), confer(상의하다, (자격을)부여하다), defer(미루다, 연기하다),
+	differ(다르다, 의견을 달리하다), suffer(고통받다, 시달리다), infer(추측하다, 추론하다),
+	fertile(비옥한, 기름진, 생식 능력이 있는), autograph(서명하다, 사인하다), photograph(사진),
+	biography(일대기, 자서전, 약력), calligraphy(서예, 달필, 캘리그래피), geography(지리학), diagram(도표, 도형, 다이어그램),
+	program(프로그램, 계획, 과정), telegram(전보, 전신), grammar(문법), project(과제, 연구, 프로젝트), reject(거절하다, 거부하다),
+	inject(주입하다, 주시하다), subject(주제, 과목, 대상, 국민), object(물체, 대상, 목적), adjective(형용사),
+	jet(제트기, 비행기, 분출), prologue(서두, 프롤로그), dialogue(대화), monologue(독백, 긴 이야기), apology(사과, 사죄),
+	logic(논리, 생각), geology(지질학), physiology(생리학, 생리 기능), psychology(심리학, 심리), theology(신학, 종교 심리학),
+	admit(인정하다, 승인하다), commit(범하다, 저지르다, 약속하다, 헌신하다), emit(내뿜다, 방출하다), omit(누락하다, 빠뜨리다),
+	permit(허가하다, 용납하다, 허가증), remit(보내다, 송금하다, 면제하다), submit(제출하다, 복종하다), transmit(전송하다, 전달하다),
+	mission(임무, 과제, 선교, 사절단), intermission(휴식 시간, 막간), missile(미사일), dismiss(일축하다, 무시하다, 해고하다),
+	premise(전제, 근거), promise(약속하다, 기대하다), compromise(타협하다, 절충하다, 손상하다), mess(엉망, 혼란, 난장판)
+
+
+
+2. w3schools HTML, CSS 문서 읽기
+	HTML APIs 문서 복습
+	CSS Tutorial > CSS HOME ~ Height/Width 문서 공부
