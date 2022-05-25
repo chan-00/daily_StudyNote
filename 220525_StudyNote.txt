@@ -1,0 +1,19 @@
+<2022.05.25일자 공부 기록>
+
+1. 영단어 복습
+	depend(의존하다, 의지하다, ~에 달려있다), expend(들이다, 소비하다), suspend(매달다, 중단하다, 연기하다),
+	ponder(생각하다, 숙고하다), compensate(보상하다, 보완하다), pension(연금, 퇴직금), complicate(복잡하게 만들다),
+	duplicate(복사하다, 복제하다), replicate(복제하다, 되풀이하다), complicity(공모, 가담), explicit(분명한, 명쾌한),
+	reply(대답하다, 대응하다), apply(신청하다, 지원하다, 적용하다), imply(내포하다, 암시하다, 뜻하다), deploy(전개하다, 배치하다),
+	employ(고용하다), diploma(졸업장, 수료증, 공문서), exploit(이용하다, 개발하다, 착취하다), perplex(당혹하게 하다),
+	complex(복잡한, 복합 건물, 단지), simple(간단한, 단순한), multiple(많은, 다양한, 복합적인), position(위치, 제자리),
+	positive(긍정적인, 확신하는), posture(자세, 태도, 자세를 취하다), compose(구성하다, 작곡하다, 작성하다),
+	component(구성 요소, 부품), compound(합성물, 합성어, 구내), dispose(없애다, 처리하다, 배치하다), deposit(보증금, 예치금, 침전물),
+	expose(드러내다, 폭로하다), impose(부과하다, 강요하다), interpose(덧붙이다, 끼어들다, (사이에) 두다), oppose(반대하다, 겨루다),
+	propose(제안하다), propound(제기하다), purpose(목적, 용도), suppose(가정하다, 추측하다), press(압력, 인쇄, 신문, 언론),
+	compress(압축하다, 압박 붕대), depress(우울하게 만들다, 침체시키다), express(표현하다, 나타내다), impress(깊은 인상을 주다, 감명을 주다),
+	oppress(억압하다), suppress(진압하다, 억누르다, 숨기다)
+
+
+2. w3schools CSS 문서 읽기
+	CSS Tutorial > CSS Box Model ~ CSS Tables 문서 공부
