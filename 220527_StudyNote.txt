@@ -1,0 +1,4 @@
+<2022.05.27일자 공부 기록>
+
+2. w3schools CSS 문서 읽기
+	CSS Tutorial > CSS Display, Max-width 문서 공부
