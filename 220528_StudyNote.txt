@@ -1,0 +1,19 @@
+<2022.05.28일자 공부 기록>
+
+1. 영단어 복습
+	describe(묘사하다, 서술하다, 그리다), inscribe(새기다, 기입하다), prescribe(처방하다, 규정하다), subscribe(구독하다, 가입하다),
+	script(대본, 글씨(체), 대본을 쓰다), manuscript(원고, 손으로 쓴), transcript(필기록, 사본, 성적 증명서), conscription(징병, 징병 제도),
+	special(특별한, 특수한), specific(구체적인, 명확한), specious(그럴듯한, 진짜 같은), species(<생물>종, 종류), specimen(견본, 표본),
+	speculate(추측하다, 짐작하다, 사색하다), conspicuous(눈에 잘 띄는, 뚜렷한, 화려한), aspect(측면, 양상, 방향), expect(기대하다, 예상하다),
+	inspect(조사하다, 점검하다), prospect(전망, 가능성, 예상), suspect(의심하다, 용의자, 혐의자), respect(존경하다),
+	retrospect(회고하다, 추억하다), introspection(자기 성찰, 반성), perspective(관점, 시각, 원근법), spectacle(장관, 구경거리),
+	specter(유령), spectrum(스펙트럼, 범위, 영역), aspire(열망하다), aspirin(해열/진통제), conspire(음모를 꾸미다, 공모하다),
+	expire(만료되다, 끝나다), inspire(고무하다, 영감을 주다), perspire(땀을 흘리다), respire(호흡하다), withstand(저항하다, 견디다),
+	standard(수준, 기준), standpoint(관점, 견지), standstill(정지, 멈춤, 정지한), stance(입장, 태도, 자세), substance(물질, 실체),
+	stable(안정된, 안정적인), establish(설립하다, 수립하다, 확립하다), stage(무대, 단계), stagnant(고여 있는, 침체된), stall(가판대, 마구간, 성가대석),
+	install(설치하다, 취입시키다), state(상태, 국가, 주), statistics(통계학, 통계 자료), estate(사유지, 재산, 계급), instate(확립하다, 임명하다),
+	static(고정된, 정지 상태의)
+
+
+2. w3schools CSS 문서 읽기
+	CSS Tutorial > CSS Position ~ CSS Tutorial > CSS Opacity 문서 공부
