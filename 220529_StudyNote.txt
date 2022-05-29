@@ -1,0 +1,20 @@
+<2022.05.29일자 공부 기록>
+
+1. 영단어 복습
+	station(역, 정류장, 장소, 방송국), stationery(문구류), statue(조각상), stature(지명도, 위상, 키), status(신분, 지위, 상황),
+	status(신분, 지위, 상황), stay(머무르다, 계속 있다), constant(끊임없는, 변함없는), distant(먼, 떨어져 있는), instant(즉각적인),
+	obstacle(장애, 장애물), ecstasy(황홀감, 황홀경), steady(꾸준한, 변함없는), rest(휴식, 나머지), arrest(체포하다, 저지하다, 끌다),
+	contrast(대조하다, 대조를 이루다), cost(값, 비용), system(제도, 체계, 시스템), assist(돕다), exist(존재하다, 실존하다),
+	insist(고집하다, 주장하다), persist(집요하게 계속하다, 지속되다), resist(저항하다, 반대하다, 항거하다), subsist(근근이 살아가다, 존속되다),
+	constitute(~을 구성하다, ~으로 되다), institute(기관, 협회, 도입하다, 시작하다), substitute(대체하다, 대신하다), superstition(미신),
+	contain(포함하다, 함유되어 있다, 억누르다), entertain(즐겁게 하다, 접대하다), maintain(유지하다, 지키다, 주장하다), obtain(얻다, 휙득하다),
+	retain(유지하다, 보유하다), sustain(지속하다, 지탱하다, 살아가다), abstain(삼가다, 자제하다), pertain(속하다, 관련하다, 알맞다), detain(구금하다, 붙들다, 지체시키다),
+	tenant(세입자, 임차인, 임차하다), content(내용물, 목차, 만족하는), continue(계속하다, 이어지다), continent(대륙),
+	abstract(추상적인, 관념적인), attract(마음을 끌다, 끌어들이다, 매혹하다), contract(계약하다, 수축하다, 줄어들다), distract(산만하게 하다, 주의를 돌리다),
+	extract(추출하다, 발췌하다), track(길, 자국), trace(자취, 발자국), vision(시력, 시야, 선견지명, 미래상), visit(방문하다), advise(조언하다), revise(수정하다, 개정하다),
+	supervise(감독하다, 관리하다), evident(명백한, 분명한), provide(제공하다, 공급하다, 준비하다), interview(면접, 인터뷰), preview(시사회, 예고편), review(검토, 논평),
+	witness(목격자, 증인)
+
+
+2. w3schools CSS 문서 읽기
+	CSS Tutorial > CSS Navigation Bar ~ CSS Tutorial > CSS Forms 문서 공부
