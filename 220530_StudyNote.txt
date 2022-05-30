@@ -1,0 +1,38 @@
+<2022.05.30일자 공부 기록>
+
+1. 영단어 복습
+	react(반응하다), transact(거래하다, 처리하다), exact(정확한, 틀림없는, 엄밀한), actual(실제의, 진짜의), active(활동적인, 적극적인),
+	alter(바꾸다, 변경하다), alternative(대안, 대체), otherwise(그렇지 않으면, 다른 방법으로), amateur(아마추어, 비전문가), amiable(붙임성 있는, 정감 있는),
+	amity(우호, 친선), enemy(적, 적군), annual(매년의, 일 년간의), anniversary(기념일), apt(~하는 경향이 있는, 적절한), adapt(적응시키다, 각색하다), adept(능숙한, 숙련된),
+	inept(서투른, 적합하지 않은), attitude(태도, 자세, 사고방식), army(군대), armistice(휴전), alarm(경보, 두려움, 공포), disarm(무장 해제시키다, 군비를 축소하다),
+	artwork(삽화, 예술품), artist(예술가, 화가), artisan(장인, 기능공), astronaut(우주 비행사), astronomy(천문학), astrology(점성술, 점성학), asterisk(별표), disaster(천재지변, 재난),
+	audience(관객, 청중, 시청자), audition(심사, 오디션), auditory(귀의, 청각의), audit(회계 감사, 검사), auditorium(강당, 관중석), bar(막대, 장벽, 방해물, 술집), barrel(통, 배럴),
+	barn(외양간, 헛간, 차고), barrier(울타리, 장애물, 장벽), embarrassed(당황한), embargo(금수 조치, 통상 금지령, 제한), base(맨 아래 부분, 기초, 토대), basement(지하층, 지하실),
+	baseline(기준치, 기준선), debase(저하하다, 떨어뜨리다), bat(방망이, 방망이로 치다), combat(전투, 싸움, 싸우다), debate(토론하다), rebate(환불하다), battle(싸우다, 투쟁하다),
+	board(판자, 게시판, 이사회, 식사, 하숙), onboard(선상의, 탑승한), overboard(배 밖으로), break(깨다, 부수다, 고장 나다, 어기다, 쉬다), breakdown(고장, 분해, 명세서),
+	breakfast(아침 식사), breakthrough(돌파구), outbreak(발생, 발발), brake(브레이크, 제동), brick(벽돌), breach(위반하다, 돌파하다)
+
+
+2. w3schools CSS 문서 읽기
+	CSS Tutorial > CSS Counters ~ CSS Tutorial > CSS Math Functions 문서 공부
+
+
+3. 학교 공부 필기
+	<파이썬 프로그래밍>
+	- 파일 읽기 3단계
+		파일 열기(open()) > 파일 읽기(readline() 등...) > 파일 닫기(close())
+		파일을 열었으면 닫는 작업 필요
+		파일 오픈 시 예외처리하면 좋음(try ~ except문 활용)
+
+	- 파일 읽는 함수
+		> 파일변수.readline()
+		(파일을 한 라인씩 읽어서 반환)
+		> 파일변수.readlines()
+		(파일을 통째로 읽어서 리스트로 반환, 엔터값(\n)도 반환됨)
+		> 파일변수.read()
+		(파일을 통째로 읽음, 문자열 반환)
+
+	- 파일 쓰기 함수
+		> 파일변수.writelines(데이터)
+		(해당 데이터를 지정한 파일 내용으로 작성)
+		
