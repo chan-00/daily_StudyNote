@@ -1,0 +1,20 @@
+<2022.05.31일자 공부 기록>
+
+1. 영단어 복습
+	campaign(캠페인, 운동), campus(대학 교정), campsite(야영지), champion(챔피언, 투사, 선수권 대회 우승자), cane(줄기, 지팡이),
+	canal(운하, 수로, 관), cannon(대포), canyon(협곡), channel(채널, 주파수대, 경로, 물길), carry(나르다, 운반하다), carriage(탈 것, 마차, 운반, 수송),
+	carrier(운송 회사, 보균자, 운반 용기), career(직업, 경력), charge(요금, 기소, 비난, 책임), discharge(해고하다, 방출하다, 이행하다),
+	cast(던지다, 드리우다, 배역을 맡기다, 돌리다), broadcast(방송하다, 널리 알리다), forecast(예측하다, 예보하다), central(중심의, 가장 중요한),
+	concentrate(집중하다, 전념하다), eccentric(괴짜인, 별난), egocentric(자기중심적인, 이기적인), concern(걱정하다, 관심을 갖다),
+	discern(알아차리다, 식별하다), discriminate(차별하다, 구별하다), criminal(범죄의, 형사상의), crisis(위기), criticize(비판하다, 비난하다, 비평하다),
+	certain(확실한, 확신하는, 특정한), certificate(자격증, 증명서), accident(사고, 우연), incident(일, 사건), coincident(일치하는, 동시에 일어나는),
+	deciduous(낙엽성의), occident(서양, 서구), suicide(자살, 자멸), homicide(살인죄), pesticide(살충제, 농약), decide(결정하다, 결심하다),
+	circular(원형의, 둥근, 순회하는), circulate(순환하다, 순환시키다, 유포하다), circumstance(상황, 환경), circuit(순환, 회로, 서킷), circus(서커스, 원형 극장),
+	cite(인용하다, 언급하다, 소환하다), excite(흥분시키다, 자극하다), recite(암송하다, 낭독하다, 열거하다), civic(도시의, 시민의, 시민다운),
+	civil(시민의, 민간의, 예의 바른), civilize(개화하다, 문명화하다), citizen(시민, 주민), claim(주장하다, 요구하다), exclaim(소리치다, 외치다),
+	proclaim(알리다, 선언하다, 선포하다), acclaim(칭송하다, 환호를 보내다), decline(감소하다, 거절하다), incline(마음이 내키다, 기울이다),
+	climate(기후, 분위기, 풍조)
+
+
+2. w3schools CSS 문서 읽기
+	CSS Tutorial > CSS Rounded Corners ~ CSS Tutorial > CSS Color keywords 문서 공부
