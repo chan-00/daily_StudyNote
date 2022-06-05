@@ -1,0 +1,16 @@
+<2022.06.05일자 공부 기록>
+
+1. 영단어 복습
+	grade(등급, 성적, 학년, 지위), degrade(비하하다, 강등시키다, (품질을)저하하다), gradual(점진적인, (경사가)완만한),
+	graduate(졸업하다), gradation(단계적인 변화, 눈금, 명암), degree(등급, 학위, 정도), ingredient(재료, 구성 요소), 
+	aggressive(공격적인, 적극적인), congress(의회, 회의), gratitude(감사, 고마움), grateful(감사하는, 고마워하는), gratify(만족시키다, 기쁘게 하다),
+	congratulate(축하하다), agree(동의하다, 협의하다, (제안에) 응하다), grace(우아함, 은혜), grave(무덤, 중대한, 심각한), gravity(중대함, 중력),
+	aggravate(악화하다, 가중시키다), grieve(슬퍼하다, 애도하다), habit(습관, 버릇, 관습), habitat(서식지, 생태), inhabit(거주하다, 서식하다),
+	exhibit(전시회, 전시품), inhibit(억제하다, 저해하다, 금지하다), prohibit(금지하다, 못하게 하다), handy(편리한, 손재주가 있는),
+	handicap(불리한 조건, 장애 ,핸디캡), handcuff(수갑을 채우다, 구속하다), handful(한 줌, 움큼, 몇 안 되는 수), handle(처리하다, 다루다),
+	beforehand(사전에, 미리), happy(행복한, 기쁜), happen(벌어지다, 발생하다), haphazard(되는 대로의, 우연한), heal(치유하다, 낫게 하다, 고치다),
+	health(건강, 보건, 건전), whole(전체의, 모든, 완전한), heredity(유전), heritage((문화)유산, 전통), inherit(상속하다, 물려받다), heir(후계자, 상속자),
+	horror(공포, 경악), horrible(끔찍한, 무서운), abhor(혐오하다), host(주최하다, 진행하다), hostel(호스텔, 숙박업소, 쉼터), hostage(인질, 볼모),
+	hostile(적대적인, 비우호적인), humiliate(굴욕감을 주다, 창피를 주다), himility(겸손), humble(겸손한, 비천한, 변변찮은), idea(생각, 발상, 개념),
+	ideal(이상적인, 완벽한), ideology(사상, 이념, 이데올로기), peninsula(반도), insulate(단열 처리하다, 격리하다), isolate(소외시키다, 고립시키다),
+	exit(나가다, 퇴장하다), transit(이동시키다, 통과하다), itinerary(여행 일정표, 여정), initiate(개시하다, 시작하다)
