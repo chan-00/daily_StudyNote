@@ -1,0 +1,19 @@
+<2022.06.08일자 공부 기록>
+
+1. 영단어 복습
+	local(지역의, 현지의), locate(~의 위치를 알아내다, 두다, 설치하다), allocate(할당하다, 배분하다), relocate(이전하다, 재배치하다), long(간절히 바라다, 갈망하다, 긴, 오랜),
+	along(~을 따라, 앞으로, 함께), prolong(연장하다, 늘이다), longevity(장수, 수명), longitude(경도), linger(지속되다, 남아 있다, 머물다), ludicrous(우스꽝스러운, 터무니없는),
+	allude(넌지시 말하다, 암시하다), prelude(<음악>전주곡, 서곡), illusion(환상, 착각, 오해), collusion(공모, 결탁, 사기), luminary(선각자, 조명, 발광체),
+	illuminate(비추다, 장식하다, 분명히 밝히다), lunar(달의, 음력의), lucid(명쾌한, 명료한, 제정신의), illustrate(설명하다, 삽화를 넣다, 예시하다), magnify(확대하다, 과장하다),
+	magnitude(규모, 중요도, (별의)광도), mega(매우 큰, 대규모의), maxim(격언, 금언, 좌우명), maximize(최대화하다, 극대화하다), mandatory(법에 정해진, 의무적인),
+	command(명령하다, 지시하다), demand(요구하다, 따지다), recommend(추천하다, 권고하다), manual(안내 책자, 설명서), manage(관리하다, 해내다, 가까스로 ~하다),
+	maneuver(작동하다, 연습하다), manifest(나타내다, 드러내 보이다, 증명하다), manipulate(조작하다, 다루다, 속이다), matter(문제, 중요한 일, 물질), material(물질, 재료, 자료, 내용),
+	maternity(모성, 임산부인 상태), matrix(모체, 모형, 기반, <수학>행렬), matropolis(주요 도시, 대도시), mechanic(정비사), mechanism(장치, 구조, 절차, 체계), mechinery(기계류, 장비),
+	medium(중간의, 매체, 매개체), medieval(중세의, 중세풍의), mediate(중재하다, 조정하다), immediate(즉각적인, 당면한, 직접적인), intermediate(중급의, 중간 단계의),
+	Mediterranean(지중해의), amid(~을 하는 가운데, ~로 에워싸인), midst(중앙, 한가운데), midnight(자정, 한밤중), midterm(중간, 중간고사), mean(의미하다, 수단, 평균, 중도),
+	meanwhile(한편, 그동안), medical(의료의, 의학의), medicine(약, 의술, 의학), remedy(처리 방안, 해결책, 치료, 바로잡다, 개선하다), memory(기억, 추억, <컴퓨터>기억장치),
+	commemorate(기념하다), remember(기억하다, 상기하다), mental(정신의, 마음의), mention(말하다, 언급하다), comment(논평하다, 견해를 밝히다), remind(상기시키다, 생각나게 하다),
+	admonish(충고하다, 훈계하다), monument(기념물, 유적)
+
+
+2. C++ 프로그래밍 friend 개념, DDL 라이브러리 사용
