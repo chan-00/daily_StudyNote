@@ -1,0 +1,13 @@
+<2022.06.09일자 공부 기록>
+
+1. 영단어 복습
+	merchant(상인, 무역상), merchandise(판매하다, 홍보하다, 광고하다), commerce(상업, 무역), market(팔다, 거래하다), emerge(나타나다, 떠오르다), submerge(잠수하다, 담그다),
+	immerse(물에 담그다, 몰두하다), diameter(직경, 지름), thermometer(온도계, 체온계), geometric(기하학적인), symmetry(대칭, 균형, 조화), migrate(이동하다, 이주하다),
+	immigrate(이민을 오다), emigrate(이민을 가다), minor(소수의, 작은, 가벼운, 단조의), minus(영하의, 부정적인), minimum(최소, 최저), minister(목사, 장관, 각료),
+	administer(관리하다, 운영하다, 집행하다), diminish(줄어들다, 약해지다, 감소하다), miracle(기적, 경이로운 예), admire(존경하다, 경탄하다), marvel(경이로워하다, 놀라워하다, 감탄하다),
+	moderate(온건한, 적당한, 중간 정도의), modern(현대의, 오늘날의), modest(겸손한, 적당한), modify(수정하다, 변경하다, 변형하다), accommodate(수용하다, 편하게 대하다),
+	commodity(상품, 원자재, 생필품), mortal(죽음을 면할 수 없는, 치명적인, 인간의), mortgage(저당, 융자), mortify(굴욕감을 주다, 당황하게 만들다, 고행하다),
+	murder(살인, 살해), motive(동기, 이유, 목적), emotion(감정), promote(촉진하다, 홍보하다, 승진시키다), remote(멀리 떨어진, 원격의, 외딴), motor(모터, 자동차),
+	mobile(이동하는, 이동성의), remove(제거하다, 치우다), moment(순간, 찰나, 때, 중요성), mount(올라가다, 시작하다, 설치하다, 쌓이다), amount(양, 금액), paramount(가장 중요한, 최고의),
+	surmount(오르다, 넘다, 극복하다), mound(둔덕, 흙무더기), eminent(저명한, 탁월한), prominent(유명한, 두드러진), mutant(변화하는, 돌연변이의), mutual(상호적인, 서로의),
+	commute(통근하다, 교환하다), nation(국가, 국민, 민족), native(태어난 곳의, 토박이의, 타고난), nature(자연, 본성), innate(타고난, 선천적인)
