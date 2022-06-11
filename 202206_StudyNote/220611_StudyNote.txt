@@ -1,0 +1,28 @@
+<2022.06.11일자 공부 기록>
+
+1. 영단어 복습
+	compare(비교하다, 비유하다), par(동등, 동위, <골프>파), pair(한 쌍), parallel(평행인, 비슷한), paragraph(단락, 문단, 짧은 글),
+	paraphrase(다른 말로 표현하다), part(부분, 일부), partition(분할하다, 나누다), party(일행, 무리, 정당, 파티), particle(입자, 조각),
+	particular(특정한, 특별한, 까다로운), apart(떨어진, 구별되는), depart(떠나다, 출발하다), counterpart(상대방), parcel(소포, 꾸러미, 구획),
+	portion(부분, 일부, 1인분), pass(통과하다, 지나가다), passage(통행, 통로, 복도, 구절), passenger(승객), compass(에워싸다, 둘러싸다, 휙득하다),
+	surpass(뛰어나다, 능가하다, 초과하다), passport(여권), pastime(취미, 심심풀이), pathetic(불쌍한, 슬픈, 감정적인), empathy(감정이입, 공감),
+	sympathy(동정, 연민, 동조, 지지), antipathy(반감, 혐오), patient(참을성 있는), passion(열정, 격정, 수난), compassion(동정, 연민),
+	passive(수동적인, 소극적인), patriot(애국자), patron(후원자, 단골손님), pattern(양식, 패턴, 모법, 귀감), pedestrian(보행자의, 도보의, 평범한),
+	pedicure(발 관리, 페디큐어), impede(방해하다, 지연시키다), expedition(탐험, 여정, 급속, 신속함), dispatch(급파하다, 발송하다, 신속히 처리하다),
+	tripod(삼각대), compel(강요하다), dispel(쫓아버리다, 떨쳐내다), expel(추방하다, 내쫓다), impel(재촉하다, 억지로 시키다), propel(추진시키다),
+	repel(격퇴하다, 물리치다), pulse(맥박, 맥), impulse(충동, 자극, 추진력), appeal(호소하다, 간청하다), penalty(처벌, 벌금, 위약금),
+	punish(처벌하다, 혼내다), pain(통증, 고통), pine(소나무, 애통해하다, 그리워하다)
+
+
+2. 학교 공부 필기
+	<알고리즘, 220611_AlgorithmStudy.cpp 파일 관련됨>
+	- 스택 개념
+		> 0개 이상의 원소를 갖는 유한 순서 리스트
+		> 한 쪽에서 삽입과 삭제 연산이 이뤄짐(push, pop)
+		> 후입 선출 구조(LIFO, Last In First Out)
+		> 컴파일러, 순환 호출 관리에 주로 사용됨
+
+	- 큐 개념
+		> 작업 큐에 들어간 작업이 가장 먼저 처리되는 작업 스케쥴
+		> 한 쪽에서 삽입 연산, 다른 쪽에서 삭제 연산이 이뤄진다(ADD, DELETE)
+		> 선입 선출 구조(FIFO, First In First Out)
