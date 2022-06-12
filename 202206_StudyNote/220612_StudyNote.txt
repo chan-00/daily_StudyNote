@@ -1,0 +1,15 @@
+<2022.06.12일자 공부 기록>
+
+1. 영단어 복습
+	experience(경험, 체험), experiment(실험, 시도), expert(전문가), peril(위험, 위기), compete(경쟁하다, 겨루다), petition(식욕, 의욕),
+	repeat(반복하다), emphasize(강조하다, 중요시하다), phase(단계, 상, 국면), phantom(유령, 허깨비), phenomenon(현상, 사건, 진기한 물건),
+	megaphone(확성기), microphone(마이크), telephone(전화기), phonics(발음 중심 교수법), symphony(교향곡, 심포니, 교향악단),
+	plenty(풍부한 양), complete(완료하다, 기입하다), deplete(고갈하다, 대폭 감소시키다), comply(따르다, 준수하다), compliment(칭찬하다),
+	supply(공급하다), supplement(보충하다, 추가하다), implement(시행하다), accomplish(완수하다, 성취하다), deplore(개탄하다, 한탄하며 슬퍼하다),
+	explore(탐험하다, 탐구하다), implore(애원하다, 간청하다), appoint(임명하다, 지정하다, 예약하다), disappoint(실망시키다), pointed(뾰족한, 날카로운, 예리한),
+	punctual(시간을 지키는), police(경찰), policy(정책, 방침, 보험 증권), politics(정치, 정치학), cosmopolis(국제도시), populate(주거하다, 살다),
+	popular(인기 있는, 유명한, 대중의), public(대중의, 공공의), publish(출판하다, 발표하다), republic(공화국의, 공화주의의), portable(휴대가 쉬운, 휴대용의),
+	portal(웅장한 정문, 시작, 포털 사이트), portfolio(서류 가방, 작품집, 투자 자산 구성), export(수출하다), report(보도하다, 보고하다),
+	support(지지하다, 후원하다), transport(수송하다), potential(가능성이 있는, 잠재적인), possess(소유하다), possible(가능한, 있을 수 있는),
+	apprehend(염려하다, 파악하다, 체포하다), comprehend(충분히 이해하다, 함축하다), prison(감옥, 교도소, 수용소), prime(제 1의, 주요한, 최고의),
+	primitive(원시적인, 원시 사회의), prince(왕자, 제후, 영주, 공작), principal(주요한, 주된), principle(원칙, 원리), prior(사전의, 우선하는)
