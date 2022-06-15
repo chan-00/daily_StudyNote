@@ -1,0 +1,125 @@
+<2022.06.15일자 공부 기록>
+
+1. 학교 시험 대비(당일 시험)
+	> 스크래치 공부, C++ 프로그래밍 공부
+
+2. 다음 시험 대비
+	<데이터베이스>
+	- SQL문 관련 문제 풀이
+	1) CREATE TABLE 고객 (
+		고객아이디 CHAR(10) NOT NULL,
+		고객이름 	  VARCHAR(20) NOT NULL,
+		등급 	  CHAR(10) NOT NULL,
+		직업 	  CHAR(10),
+		적립금 	  INT DEFAULT 0,
+		PRIMARY KEY(고객아이디)
+	);
+
+	2) CREATE TABLE 제품 (
+		제품번호 INT NOT NULL,
+		제품명   	CHAR(10),
+		재고량	INT,
+		단가	INT,
+		제조업체	CHAR(15),
+		PRIMARY KEY(제품번호),
+		CONSTRAINT Chk_재고량 CHECK(재고량 >= 0 AND 재고량 <= 10000)
+	);
+
+	3) CREATE TABLE 주문 (
+		주문번호 INT NOT NULL,
+		주문고객 CHAR(10),
+		주문제품 CHAR(10),
+		수량 	INT,
+		배송지	CHAR(20),
+		주문일자	DATE,
+		PRIMARY KEY(주문번호),
+		FOREIGN KEY(주문고객) REFERENCES 고객(고객아이디),
+		FOREIGN KEY(주문제품) REFERENCES 제품(제품번호)
+	);
+
+	4) CREATE TABLE 배송업체 (
+		업체번호 INT NOT NULL,
+		업체명	CHAR(10),
+		주소	VARCHAR(20),
+		전화번호	CHAR(15),
+		PRIMARY KEY(업체번호)
+	);
+
+	5) ALTER TABLE 고객 ADD 가입날짜 DATE;
+
+	6) ALTER TABLE 고객 DROP COLUMN 가입날짜;
+	
+	7) ALTER TABLE 고객 ADD CONSTRAINT CHK_JOIN CHECK(나이 >= 20);
+
+	8) ALTER TABLE 고객 DROP CONSTRAINT CHK_JOIN;
+
+	- DML 기본 문법
+	1) SELECT문
+		SELECT 검색할 속성들
+		FROM 테이블명
+		WHERE 검색 조건
+		GROUP BY 속성 HAVING 그룹조건
+		ORDER BY 속성
+
+	2) INSERT문
+		INSERT
+		INTO 테이블명(속성들)
+		VALUES (속성값들)
+		-> VALUES 대신 SELECT문이 들어가도 된다.(이 때 검색할 기존 테이블을 바탕으로 데이터가 선택됨)
+
+	3) UPDATE문
+		UPDATE 테이블명
+		SET 속성=값
+		WHERE 조건
+		-> SET 뒤에는 값이 바뀔 속성들을 넣고, WHERE의 조건에 해당하는 속성들만 바뀌게 된다.
+		(WHERE문 생략 시 테이블의 모든 속성값이 수정됨
+
+	4) DELETE문
+		DELETE
+		FROM 테이블명
+		WHERE 조건
+		-> UPDATE문과 마찬가지로 WHERE 생략 시 테이블의 모든 속성값이 삭제되며, 이 때는 빈 테이블로 남게 된다.
+		(DROP TABLE로 테이블 자체를 삭제하는 것과의 차이점)
+
+	
+	- VIEW 테이블 생성
+	1) 
+	CREATE VIEW 우수고객
+	AS SELECT 고객아이디, 고객이름, 나이, 등급
+	    FROM 고객
+	    WHERE 등급='vip'
+	WITH CHECK OPTION;
+
+	2)
+	CREATE VIEW 업체별제품수(제조업체, 제품수)
+	AS SELECT 제조업체, COUNT(*)
+	    FROM 제품
+	    GROUP BY 제조업체
+	WITH CHECK OPTION;
+	
+	* ALL, DISTINCT는 SELECT절에서 사용, 속성 앞에서 사용
+	* IS NULL, IS NOT NULL은 WHERE절에서 사용, 속성 뒤에 사용
+
+	
+	- 그 외의 이론
+	1) 트랜잭션 특성
+		> 원자성(atomicity, 회복 기능)
+		트랜잭션은 모두 수행되거나 아예 수행되지 않아야 한다.
+		> 일관성(consistency, 병행 제어 기능)
+		트랜잭션의 수행 전과 후의 결과값이 일관되어야 한다.
+		> 격리성(isolation, 병행 제어 기능)
+		트랜잭션 수행 중에는 다른 작업이 끼어들면 안 된다.
+		> 지속성(durability, 회복 기능)
+		트랜잭션 수행 후 결과가 데이터베이스에 반영되면 그 결과는 영구적이어야 한다.
+
+	2) 트랜잭션 상태
+		> 활동
+		트랜잭션이 수행되고 있는 상태
+		> 부분 완료
+		트랜잭션의 모든 연산을 처리한 상태로, 결과를 데이터베이스에 반영하기 전이다.
+		> 완료
+		부분 완료에서 commit 연산을 실행한 상태이다.
+		> 실패
+		활동이나 부분 완료 상태에서 모종의 장애로 인해 연산이 실패한 상태
+		> 철회
+		실패 상태에서 rollback 연산을 한 상태, 이 상태로 종료된 트랜잭션은 상황에 따라 다시 실행되거나 폐기된다.
