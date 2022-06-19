@@ -1,0 +1,37 @@
+<2022.06.19일자 공부 기록>
+
+1. 학교 시험 대비 공부(파이썬)
+	- 파이썬에서 데이터를 입력하는 코딩 순서
+		> 아래 단계 전 sqlite3를 import 시켜 줘야 한다.(import sqlite3)
+
+		1) 데이터베이스 연결
+			연결자 = sqlite3.connect("DB이름")
+			ex) con = sqlite3.connect("stddb")
+			-> con이라는 연결자명에 stddb라는 이름의 데이터베이스를 생성하여 연결해 줌
+		2) 커서 생성
+			커서이름 = 연결자.cursor()
+			ex) cur = con.cursor()
+			-> 위에서 연결한 con 연결자의 cursor() 함수로 커서 생성
+		3) 테이블 생성
+			커서이름.execute("create table ~")
+			ex) cur.execute("create table student(studNum char(3) primary key, name char(20), age int)")
+			-> 커서의 execute 함수를 활용하여 create table문을 실행, 테이블을 생성함
+			(execute 함수는 매개변수의 문자열 내용의 명령을 실행하는 기능이다.)
+		4) 데이터 입력
+			커서이름.execute("insert into ~")
+			ex) cur.execute("insert into student values("001", "홍길동", 21)")
+			-> 테이블 생성 때와 마찬가지로 insert라는 명령어를 써야 하기 때문에 execute 함수를 활용한다.
+		5) 데이터 저장
+			연결자.commit()
+			ex) con.commit()
+			-> 데이터 작업이 모두 끝나면 결과를 데이터베이스에 반영하기 위해 commit 함수를 실행한다.
+		6) 데이터베이스 닫기
+			연결자.close()
+			ex) con.close()
+
+		* 간략하게 요약하자면, 처음에 데이터베이스 생성 시 연결자를 선언하고, 해당 연결자의 cursor 함수로 커서를
+		생성하여 이 커서의 execute 함수를 통해 데이터베이스에 테이블을 만들고 데이터를 삽입하는 등의 작업을 한다.
+		모든 작업이 끝나면 커서가 아닌 연결자의 commit 함수로 작업 결과를 저장한 후 연결자의 close 함수로
+		데이터베이스를 닫고 끝내게 된다.
+
+	- 파이썬 문제 풀이(220619_pythonStudy 참고하기)
