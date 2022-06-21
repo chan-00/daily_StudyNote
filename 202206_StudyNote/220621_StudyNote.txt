@@ -1,0 +1,21 @@
+<2022.06.21일자 공부 기록>
+
+1. 영단어 복습
+	sense(감각, 지각, 의미), sensation(감각, 느낌, 돌풍을 일으키는 것), sensual(관능적인, 육체적 감각의), sentiment(정서, 감정, 감상),
+	consent(동의하다, 허락하다), resent(분하게 여기다, 분개하다), sequence(순서, 차례, 연속적인 사건들), consequence(결과, 중요성),
+	subsequent(그다음의), prosecute(수행하다, 고발하다, 기소하다), second(두 번째의, 둘째로), conserve(아끼다, 보호하다),
+	deserve(~받을 만하다, ~할 가치가 있다), observe(목격하다, 관찰하다, 준수하다), preserve(지키다, 보존하다, 유지하다),
+	reserve(예약하다, 따로 남겨두다, 유보하다), servant(하인, 종), dessert(디저트, 후식), sergeant(부사관, 병장, 경사), president(회장, 대통령, 주재자),
+	resident(거주하는, 상주하는), subside(가라앉다, 진정되다), seat(자리, 좌석), settle(정착하다, 해결하다, 합의를 보다), sign(표시, 신호, 징후, 조짐),
+	signal(신호를 보내다, 시사하다), signify(나타내다, 의미하다, 중요하다), assign(맡기다, 할당하다), design(디자인하다, 계획하다),
+	designate(지정하다, 지명하다), resign(사임하다, 물러나다, 포기하다), similar(비슷한, 유사한), assimilate(동화하다, 완전히 이해하다),
+	simulate(가장하다, 모의실험을 하다), simultaneous(동시의), resemble(닮다, 유사하다), assemble(모으다, 조립하다), society(사회, 집단),
+	sociology(사회학), associate(연상하다, 연관시키다, 어울리다), solve(해결하다, 풀다), absolve(무죄를 선고하다, 사면하다), dissolve(녹다, 융해하다),
+	resolve(해결하다, 결심하다), sophist(학자, 궤변론자), sophisticated(세련된, 교양 있는, 정교한), philosophy(철학), sophomore(2학년),
+	sponsor(후원자, 광고업체), respond(응답하다, 반응하다, 답장하다), correspond(일치하다, 상응하다, 서신을 주고받다), spouse(배우자),
+	sticker(스티커), sting(찌르다, 따끔따끔하게 하다), distinguish(구별하다, 차이를 보이다), extinguish(불을 끄다, 끝내다), instinct(본능, 타고난 소질),
+	stimulus(자극제, 자극, 흥분), stitch(바늘땀, 한 땀)
+
+
+2. w3schools CSS 문서 읽기
+	CSS Advanced > CSS Transitions ~ CSS Advanced > CSS Tooltips 문서 공부
