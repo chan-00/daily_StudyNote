@@ -1,0 +1,18 @@
+<2022.06.22일자 공부 기록>
+
+1. 영단어 복습
+	strict(엄격한, 엄밀한), district(구역, 지구, 지역), restrict(제한하다, 방해하다), strain(잡아당기다, 혹사하다, 안간힘을 쓰다), constrain(~하게 만들다, 강요하다, 제한하다),
+	restrain(제지하다, 억제하다), strait(해협, 궁핍, 곤경), strand(가닥, 올, 줄), distress(고통, 걱정), structure(조직하다, 구조화하다), construct(건설하다, 구성하다),
+	instruct(지시하다, 가르치다), obstruct(막다, 방해하다), destroy(파괴하다, 망치다), industry(산업, 제조업, 근면), insult(모욕하다), exult(기뻐 날뛰다, 의기양양하다),
+	assault(급습하다, 폭행하다), assume(추정하다, 취하다, ~인 척하다), consume(소비하다, 먹다, 마시다), presume(추정하다, 간주하다), resume(재개하다, 다시 시작하다),
+	exempt(면제하다), example(예시, 사례, 보기), tact(요령, 눈치, 재치), intact(손상되지 않은, 온전한), contact(연락하다, 접촉하다), tactic(전략, 작전, 전술),
+	tactile(촉각의, 촉각을 이용한), tangible(만져서 알 수 있는, 실체가 있는, 명백한), contagious(전염성의, 전염되는), integer(정수, 완전체), integrate(통합하다, 통합되다),
+	technique(기법, 기술, 솜씨), technically(엄밀히 말하면, 기술적으로), technology(기술, 공학), detect(발견하다, 감지하다), protect(보호하다), temper(기질, 성질),
+	temperate(온화한, 온건한, 절제하는), temperature(온도, 기온), tempt(유혹하다, 부추기다), attempt(시도하다), tentative(잠정적인, 머뭇거리는),
+	tend(~하는 경향이 있다, ~하기 쉽다, 돌보다), tender(다정한, 부드러운, 연약한), attend(참석하다, 돌보다), contend(투쟁하다, 주장하다, 겨루다), extend(뻗다, 연장하다),
+	intend(의도하다, 작정하다), pretend(~인 척하다, 가장하다), tense(팽팽한, 긴장한), term(용어, 학기, 기간, 조건), terminate(끝나다, 종료하다), determine(결정하다, 알아내다),
+	terrace(테라스, 작은 발코니), terrain(지형, 지역), territory(영토, 영역), terrestrial(지구의, 지상의)
+
+
+2. w3schools CSS 문서 읽기
+	CSS Advanced > CSS Style Images 문서 공부
