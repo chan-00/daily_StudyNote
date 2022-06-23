@@ -1,0 +1,14 @@
+<2022.06.23일자 공부 기록>
+
+1. 영단어 복습
+	testify(증언하다, 진술하다), attest(증명하다, 입증하다), contest(대회, 경쟁), detest(몹시 싫어하다, 혐오하다), protest(항의하다, 주장하다),
+	text(본문, 글, 원문), texture(감촉, 질감), textile(직물, 옷감, 섬유 산업), context(정황, 맥락, 문맥), pretext(구실, 핑계), atom(원자),
+	anatomy(해부, 해부학, 분석), tone(어조, 색, 분위기), intonation(억양), monotonous(단조로운), tune(곡조, 선율), torture(고문하다, 괴롭히다),
+	distort(비틀다, 왜곡하다), extort(갈취하다), retort(반박하다, 쏘아붙이다), torment(고통, 고뇌, 고민거리), torque(비트는 힘, 회전력, <단위>토크),
+	torch(횃불, 성화), attribute(~의 탓으로 하다, ~에 돌리다), contribute(기부하다, 공헌하다), distribute(분배하다, 배포하다, 유통하다),
+	true(참된, 진실의), trust(신뢰, 신탁), trustworthy(신뢰할 수 있는), entrust(맡기다, 위임하다), distrust(불신하다, 의심하다), tumor(종양),
+	tumult(소란, 심란함, 혼란스러움), tomb(무덤, 묘), thumb(엄지손가락), turbulence(격동, 난기류), turbine((기계의)터빈), disturb(방해하다, 불안하게 만들다),
+	trouble(문제, 골칫거리), use(쓰다, 사용하다), abuse(남용하다, 학대하다), misuse(남용, 악용, 혹사), utilize(활용하다, 충분히 이용하다),
+	utensil(기구, 도구), vacate(비우다, 떠나다), vacuum(진공), evacuate(대피하다, 떠나다), vanish(갑자기 사라지다, 없어지다), vain(헛된, 소용없는, 공허한),
+	invade(침입하다, 난입하다), evade(피하다, 모면하다), pervade(만연하다), value(가치), valid(유효한, 타당한), valor(용기, 용맹), ambivalent(양면적인),
+	evaluate(평가하다), available(이용할 수 있는, 유효한), prevail(만연하다, 승리하다)
