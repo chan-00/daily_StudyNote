@@ -1,0 +1,20 @@
+<2022.06.24일자 공부 기록>
+
+1. 영단어 복습
+	adventure(모험, 뜻하지 않은 일), venture(벤처 사업), event(사건, 행사, 경우), invent(발명하다, 지어내다), prevent(막다, 방지하다),
+	convene(소집하다, 모으다), intervene(개입하다, 끼어들다), venue(콘서트, 스포츠, 회담 등의 장소), avenue(거리), revenue(수익, 세입),
+	souvenir(기념품), advertise(광고하다, 알리다), avert(방지하다, 피하다), convert(전환시키다, 개조하다), controvert(반박하다, 반증하다),
+	introvert(내향적인 사람), pervert(왜곡하다, 비뚤어지게 하다), converse(대화를 나누다), diverse(다양한), reverse(뒤바꾸다, 반전시키다),
+	vortex(소용돌이, 회오리바람), vest(주다, 부여하다), divest(벗다, 처분하다, 빼앗다), invest(투자하다, 권한을 부여하다), via(경유하여, 거쳐),
+	deviation(일탈, 탈선), convey(나르다, 전달하다), voyage(여행하다, 항해하다), envoy(사절, 특사), victory(승리), convict(유죄를 선고하다, 입증하다),
+	evict(쫓아내다, 축출하다), convince(납득시키다, 확신시키다), province(지방, 주, 도), invincible(천하무적의), revive(활기를 되찾다, 회복시키다),
+	survive(살아남다, 생존하다, ~보다 오래 살다), vivid(생생한, 선명한), vital(필수적인), vitamin(비타민), voice(목소리), vocabulary(어휘),
+	vocation(천직, 소명, 사명), advocate(지지하다, 옹호하다), convocation(집회, 대회), provoke(유발하다, 도발하다, 약 올리다),
+	evoke(떠오르게 하다, 환기시키다, 자아내다), invoke((법, 규칙을)적용하다, (프로그램을) 작동시키다), vowel(모음), voluntary(자발적인, 자원한),
+	benevolent(자애로운, 자선적인), will(~할 것이다, ~일 것이다, 의지, 의도), involve(포함하다, 연루시키다), evolve(진화하다, 발전시키다),
+	revolve(돌다, 회전하다), volume(용량, 부피, 음량), vote(투표, 표결), devote(바치다, 헌신하다), vow(맹세, 서약), warn(경고하다, 주의를 주다),
+	aware(알고 있는, 의식하고 있는), beware(주의하다, 경계하다), award(상, 수여하다, 판정하다), reward(보상하다, 보답하다)
+
+
+2. w3schools CSS 문서 읽기
+	CSS Advanced > CSS Image Reflection ~ CSS Advanced > CSS Buttons 문서 공부
