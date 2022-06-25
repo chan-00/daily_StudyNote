@@ -1,0 +1,4 @@
+<2022.06.25일자 공부 기록>
+
+1. w3schools CSS 문서 읽기
+	CSS Advanced > CSS Pagination ~ CSS Advanced > CSS Flexbox 문서 공부
