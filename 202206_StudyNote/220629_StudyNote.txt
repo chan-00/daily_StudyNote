@@ -1,0 +1,4 @@
+<2022.06.29일자 공부 기록>
+
+1. w3schools 문서 복습
+	HTML Tutorial > HTML HOME ~ HTML vs .XHTML
