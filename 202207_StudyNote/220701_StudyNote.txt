@@ -1,0 +1,21 @@
+<2022.07.01일자 공부 기록>
+
+1. 영단어 복습
+	adhere(고수하다, 들러붙다), adjacent(인접한, 이웃의, 부근의), adolescent(청소년), adopt(채택하다, 입양하다, 도입하다, 적용하다),
+	adore(아주 좋아하다, 숭배하다), advent(도래, 출현), adverb(부사), ahead(앞서, 앞에), abbreviate(줄이다, 요약하다), accelerate(가속하다, 빨라지다),
+	accessory(장신구, 액세서리, 부대 용품), accuse(비난하다, 고소하다), acknowledge(인정하다, 알다, 확인하다), aggregate(모으다, 종합하다),
+	applaud(박수갈채하다, 칭찬하다), appreciate(알아주다, 감사하다, 감상하다), approach(접근하다, 다가오다), appropriate(적합한, 어울리는),
+	approximate(대략의, 가까운), array(정렬시키다, 배열하다), attach(부착하다, 첨부하다, 연관 짓다), submarine(잠수함), aubtotal(소계),
+	subtract(빼다, 공제하다), suburb(교외, 근교), subtitle(자막, 부제), suggest(제안하다, 추천하다, 암시하다), demolish(철거하다, 무너뜨리다),
+	depreciate(가치가 떨어지다), desire(욕구, 갈망, 바람), despise(경멸하다, 멸시하다), decay(부패하다, 퇴락하다, 치아가 썩다), deform(변형하다),
+	detach(분리하다, 떼어내다, 떠나다), delegate(대표자), default(태만, 부족, 기본 값), decode(해독하다, 이해하다), deforest(삼림을 없애다, 벌채하다),
+	destruct(파괴하다, 자폭시키다), demerit(단점, 결점, 약점), disability(무력, 무능, 신체장애), disadvantage(불리한 점, 결점), discomfort(불안, 불편),
+	disgrace(불명예, 수치, 망신), dishonor(불명예, 굴욕, 모욕), disorder(장애, 무질서, 난동), discourage(낙담시키다, 좌절시키다), discredit(의심하다, 불신하다),
+	diragree(동의하지 않다, 의견을 달리하다), disapprove(반대하다, 못마땅해 하다), discard(버리다, 포기하다), disconnect(연락을 끊다, 분리하다),
+	dislike(싫어하다), disobey(위반하다, 거역하다), disqualify(실격시키다, 자격을 박탈하다), disregard(무시하다, 묵살하다), disrespect(무례, 실례),
+	dishonest(부정직한, 불성실한), discontent(불평, 불만)
+
+
+2. w3schools CSS 문서 읽기
+	CSS Responsive > RWD Intro ~ RWD Templates
+	CSS Grid > Grid Intro ~ Grid Item 문서 공부
