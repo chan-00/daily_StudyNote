@@ -1,0 +1,58 @@
+<2022.07.03일자 공부 기록>
+
+1. 영단어 복습
+	unfair(불공평한, 불공정한), unequal(동등하지 않은, 불평등한, 부적당한), uncertain(불확실한, 분명하지 않은), unsure(확신이 없는, 자신이 없는),
+	unusual(드문, 특이한, 이상한), unnecessary(불필요한, 쓸데없는), unconscious(무의식의, 의식을 잃은), unfortunate(운이 없는, 불운한, 불행한),
+	unnatural(부자연스러운, 비정상적인, 이상한), unpleasant(불쾌한, 싫은, 재미없는), unhealthy(건강하지 않은, 건강에 해로운),
+	unsteady(불안정한, 떨리는), unwilling(꺼리는, 내키지 않는, 마지못한), unfriendly(우호적이지 않은, 쌀쌀맞은), unlike(닮지 않은),
+	unable(할 수 없는, 하지 못하는), unbearable(참을 수 없는), unbelievable(믿을 수 없는, 놀라운), uncomfortable(불편한, 불쾌한),
+	unquestionable(논의의 여지가 없는, 명백한), unreasonable(불합리한, 무리한, 부당한), untouchable(손이 닿지 않는, 처벌할 수 없는, 당해낼 수 없는),
+	unemployed(실직한, 일자리가 없는), unexpected(예기치 않은, 뜻밖의), unintended(의도하지 않은, 우연한), unknown(알려지지 않은, 미지의, 유명하지 않은),
+	unlimited(무한한, 제한 없는), unpaid(미납의, 무보수의), unseen(보이지 않는, 처음 보는), untitled(제목이 없는, 호칭이 없는), unwanted(원치 않는),
+	undo(원상태로 돌리다, 취소하다, 풀다), unpack(짐을 풀다), unplug(플러그를 뽑다), untie(매듭을 풀다), unveil(벗기다, 밝히다),
+	incorrect(틀린, 정확하지 않은), indefinite(막연한, 애매한, 무기한의), indirect(간접적인), indispensable(필수적인), ineffective(효과 없는, 무력한, 무능한),
+	inevitable(필연적인, 피할 수 없는), inexpensive(값이 싼, 저렴한), infamous(악명 높은), informal(격식에 얽매이지 않는, 비공식적인), insufficient(불충분한),
+	intolerable(참을 수 없는, 견딜 수 없는, 지나친), invariable(변함없는, 변치 않는), invisible(눈에 보이지 않는, 투명한), inability(무능, 불능), incompetence(무능, 무자격),
+	inconvenience(불편), inequality(불평등, 불균형), injustice(부정, 불법), immature(미숙한, 유년기의, 미완성의), immense(굉장한, 막대한), immoral(부도덕한, 비윤리적인),
+	immortal(죽지 않는, 불멸의), impartial(공정한, 공평한), impatient(참을성 없는, 서두르는), impractical(비현실적인, 비실용적인), improper(부적절한),
+	imbalance(불균형, 불안정한 상태), illogical(비논리적인, 모순되는), irrational(비이성적인, 불합리한, 무리한), irrelevant(관련이 없는, 부적절한, 무의미한),
+	irresponsible(무책임한, 책임감이 없는)
+
+
+
+2. w3schools JavaScript 문서 읽기
+	* JS Tutorial > JS HOME ~ JS Objects 문서 정독
+		- JS로 HTML 태그의 내용, 속성, 스타일을 변경할 수 있다.
+
+		- JS로 출력하는 방법 중 document.write() 함수 사용 시 HTML 페이지가 로드된 후 write 함수가
+		호출되면 기존 내용들은 다 사라지게 된다.
+
+		- 한 줄 주석은 //, 여러 줄 주석은 /* ~내용~ */ 으로 사용
+
+		- JS는 대소문자를 구분한다.(변수명 y와 Y는 다르게 취급)
+
+		- var 변수는 똑같은 이름으로 재선언이 가능하지만, let 변수는 불가능하다.
+
+		- var 변수는 블록({ }) 내부에서 재선언하면 블록 밖에서도 값이 변경되지만, let 변수는 값이
+		변경되지 않는다.
+
+		- const 변수는 선언될 때 값을 할당해야 한다.
+
+		- const로 선언된 변수는 값의 변경X, 그러나 해당 값이 상수라는 것을 표현하는 것이 const이기 때문에
+		const로 선언된 배열이나 객체 자체를 변경하는 것은 불가능하지만 배열과 객체의 요소 변경은 가능하다.
+
+		- HTML의 내용을 바꿀 때 문자열에 태그를 포함시켜 넣으면 태그의 효과가 적용된다.
+		ex) ~.innerHTML = "안녕<br>하세요";
+		-> 태그 br의 효과인 줄넘김이 적용됨.
+
+		- 배열은 대괄호([ ]), 객체는 중괄호({ })로 표현되며 객체 속성은 이름: 값 쌍으로 작성된다.
+		ex) const person = {firstName: "John", lastName: "Doe"};
+
+		- 객체 사용 시 객체명.이름값 으로 사용
+		ex) 위의 예제 person 객체를 사용한다 가정
+		
+		- 함수 사용
+		function 함수명(매개변수들...) {
+			~
+		}
+		-> 반환형에 따른 함수의 데이터형을 지정하지 않아도 된다.
